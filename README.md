@@ -57,6 +57,7 @@ Para atualizar sem perder os dados locais, instale a nova versão sobre a anteri
 
 | Versão | Principais alterações |
 |---|---|
+| [v1.0.3](https://github.com/Ronaldo-Correia/FitWorkUp-download/releases/tag/v1.0.3) | Correção de melhorias no ranking,recuperação de senha e no compartilhamento do aplicativo |
 | [v1.0.2](https://github.com/Ronaldo-Correia/FitWorkUp-download/releases/tag/v1.0.2) | Correção do fluxo de autenticação com Google |
 | [v1.0.1](https://github.com/Ronaldo-Correia/FitWorkUp-download/releases/tag/v1.0.1) | Isolamento dos dados por usuário e correções na atividade e nas notificações |
 | [v1.0.0](https://github.com/Ronaldo-Correia/FitWorkUp-download/releases/tag/v1.0.0) | Primeira versão disponibilizada para testes |
