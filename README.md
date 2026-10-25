@@ -8,7 +8,7 @@ Este repositório é destinado exclusivamente à distribuição das versões ins
 
 ### Versão mais recente
 
-[Baixar FitWorkUp v1.0.2](https://github.com/Ronaldo-Correia/FitWorkUp-download/releases/download/v1.0.2/FitWorkUp-v1.0.2.apk)
+[Baixar FitWorkUp v1.0.3](https://github.com/Ronaldo-Correia/FitWorkUp-download/releases/download/v1.0.3/FitWorkUp-v1.0.3.apk)
 
 Também é possível consultar todas as versões na página de releases:
 
