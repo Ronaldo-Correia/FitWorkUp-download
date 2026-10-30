@@ -4,6 +4,9 @@ O FitWorkUp é um aplicativo Android destinado ao registro e acompanhamento de c
 
 Este repositório é destinado exclusivamente à distribuição das versões instaláveis do aplicativo. O código-fonte não está disponível neste repositório.
 
+# Vídeo de apresentação do aplicativo
+
+[Assistir vídeo](https://www.youtube.com/watch?v=cx5c1wXPgo4)
 ## Download
 
 ### Versão mais recente
